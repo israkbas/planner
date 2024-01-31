@@ -1,16 +1,10 @@
-# ajanda
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![6](https://github.com/israkbas/planner/assets/102908756/032c824d-cc00-443f-86dd-d7dfdac62671)
+![5](https://github.com/israkbas/planner/assets/102908756/90601ffa-3fe5-40d9-8b55-0e2701f11a8d)
+![4](https://github.com/israkbas/planner/assets/102908756/60030cfe-f21a-427a-9664-0a096b1bf9a4)
+![3](https://github.com/israkbas/planner/assets/102908756/66b896b3-6e8d-438b-a0f3-880fab15f331)
+![2](https://github.com/israkbas/planner/assets/102908756/87c3c5a3-6b95-46a3-9172-ba19db296819)
+![1](https://github.com/israkbas/planner/assets/102908756/459d01fe-e576-4f78-8aff-ef23019dfd48)
+![10](https://github.com/israkbas/planner/assets/102908756/4a811b4b-b569-497e-bc40-c986e6e0a734)
+![9](https://github.com/israkbas/planner/assets/102908756/1c380503-de0f-4960-9a48-c6599237d1af)
+![8](https://github.com/israkbas/planner/assets/102908756/bf164a82-4531-4174-9cce-f4db478014a8)
+![7](https://github.com/israkbas/planner/assets/102908756/c661ae0f-80fe-42d5-a75c-e28f38435253)
